@@ -9,7 +9,7 @@
 Consultation can be just what you need to start implementing EMDR therapy easily and effectively.  My name is Katie Quinlan, and I have been working with children, adolescents, and adults for over 15 years.  I was trained in EMDR three years ago and am currently a Consultant-In-Training (CIT) with Deany Laliotis, a renowned expert and leader in EMDR therapy worldwide.  As your Consultant, I will help you develop your skills and build your confidence as an EMDR psychotherapist.  
 
 As a CIT, I currently offer a discounted rate.  Contact me for a free consultation!
-Email me at katherinequinlan@gmail.com or call me at 617-680-4605 for more details!  
+Email me at [katherinequinlan@gmail.com](mailto:katherinequinlan@gmail.com) or call me at 617-680-4605 for more details!  
 
 # Bio
 Katie Quinlan, CMHC is a licensed mental health therapist who has worked with children, adolescents, and adults for over 15 years.
@@ -31,5 +31,5 @@ In her personal time, Katie enjoys spending time with her family, reading, cooki
 
 
 # Contact
-Email: katherinequinlan@gmail.com
+Email: [katherinequinlan@gmail.com](mailto:katherinequinlan@gmail.com)
 Mobile: 617-680-4605
