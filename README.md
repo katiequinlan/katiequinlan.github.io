@@ -31,5 +31,6 @@ In her personal time, Katie enjoys spending time with her family, reading, cooki
 
 
 # Contact
-Email: [katherinequinlan@gmail.com](mailto:katherinequinlan@gmail.com)
+Email: [katherinequinlan@gmail.com](mailto:katherinequinlan@gmail.com)  
+
 Mobile: 617-680-4605
