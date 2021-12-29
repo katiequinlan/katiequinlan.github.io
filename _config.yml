@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Katie Quinlan, CMHC
 description: Clinical Director at Sovegna
 logo: katie-sovegna.png
+github:
+  is_project_page: false
