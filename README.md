@@ -1,6 +1,10 @@
 
-![image](https://github.com/katiequinlan/katiequinlan.github.io/assets/96839298/1e992972-b780-4de4-b923-ba58fd77e95b)
-![image](https://github.com/katiequinlan/katiequinlan.github.io/assets/96839298/07c2861f-919a-474c-b714-c946019bece6)
+<table border="0">
+ <tr>
+    <td><img width="100" alt="EMDR Consultant" src="https://github.com/katiequinlan/katiequinlan.github.io/assets/96839298/1e992972-b780-4de4-b923-ba58fd77e95b"></td>
+    <td><img width="100" alt="EMDR Certified Therapist" src="https://github.com/katiequinlan/katiequinlan.github.io/assets/96839298/07c2861f-919a-474c-b714-c946019bece6"></td>
+ </tr>
+</table>
 
 # Consultation
 
