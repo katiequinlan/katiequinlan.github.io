@@ -1,3 +1,6 @@
+[](![image](https://github.com/katiequinlan/katiequinlan.github.io/assets/96839298/1e992972-b780-4de4-b923-ba58fd77e95b)
+
+
 # Consultation
 
 **Are you struggling to apply EMDR therapy with your clients who have complex developmental trauma?**  
